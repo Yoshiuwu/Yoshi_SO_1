@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Design/Darkeum.qss</file>
+        <file>Design/Wstartpage.qss</file>
+        <file>Design/Obit.qss</file>
+    </qresource>
+</RCC>
